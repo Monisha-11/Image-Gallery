@@ -1,0 +1,27 @@
+body{
+    margin-right: 200px;
+    border: solid black 2px;
+    margin-left: 300px;
+}
+.whole{
+    background-color: antiquewhite;
+}
+.topic{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.images{
+    padding-left: 50px;
+}
+.images img{
+    height: 300px;
+    border: solid black 5px;
+    border-radius: 20px;
+    margin: 50px;
+}
+.im img{
+    height: 300px;
+    border: solid black 5px;
+    border-radius: 20px;
+    margin: 50px;
+}
